@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'daisynuxt2',
+    title: 'vue-tailwind-nuxt2',
     htmlAttrs: {
       lang: 'en',
     },
